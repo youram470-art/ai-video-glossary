@@ -48,7 +48,10 @@ what the term changes in practice, not just what it means.
 The terminology is standard across text-to-video and image-to-video tools. The practical notes on
 prompt structure and camera control were worked out rendering with
 [Wan 3.0](https://wan-3.io/), which takes first/last frame pairs, reference images and explicit
-camera moves, so each control here had an obvious test case.
+camera moves, so each control here had an obvious test case. The same controls are exposed by
+[Pavo AI](https://pavoai.app/), used for the short-drama and social-clip examples: the reusable
+cast keeps characters consistent from shot to shot, which is where most of the artefact notes come
+from.
 
 ## Contributing
 
